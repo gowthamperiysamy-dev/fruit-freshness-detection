@@ -1,0 +1,14 @@
+
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.streamlit/secrets.toml
+
+# Original and processed datasets
+Original Image/
+fruit_dataset/
+
+# Temporary files
+*.log
+.DS_Store
